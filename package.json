@@ -1,0 +1,18 @@
+{
+	"name": "nd5",
+	"description": "CommonJS/Modules/1.0 version of jkm's md5cycle",
+	"version": "1.0.0",
+	"main": "md5cycle",
+	"keywords": ["md5"],
+	"maintainers": [{
+		"name": "Matthew Fowle",
+		"email": "fowle@socialtables.com",
+		"web": "http://socialtables.com"
+	}],
+	"homepage": "http://socialtables.com",
+	"implements": ["CommonJS/Modules/1.0"],
+	"engines": { "node": ">=0.6.0" },
+	"dependencies": {
+	},
+	"repository": {"type": "git", "url": "http://github.com/socialtables/np5"}
+}
